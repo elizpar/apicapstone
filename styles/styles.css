@@ -1,0 +1,43 @@
+
+
+body {
+	font-family: Open Sans, helvetica, arial;
+	color: #729C96;
+	background-color: #EBF9FF;
+}
+
+#header {
+	text-align: center;
+}
+
+#search-term {
+     width:500px;
+     margin:50px auto;
+}
+#query {
+    padding:8px 15px;
+    background: #ffffff;
+	border:0px solid #dbdbdb;
+}
+.add {
+                position:relative;
+                padding:6px 15px;
+                left:-8px;
+                border:2px solid #E88960;
+                background-color:#E88960;
+                color:#fafafa;
+}
+.add:hover  {
+                background-color:#fafafa;
+                color:#207cca;
+}
+
+.search-results {
+	text-align: center;
+	margin: 0 auto;
+}
+
+li {
+	list-style: none;
+}
+
